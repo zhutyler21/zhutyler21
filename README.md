@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 # 你好，我是Tyler Coman! 👋
 > “你给世界的，就是世界给你的！”
 
