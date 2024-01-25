@@ -17,8 +17,8 @@
 ## 📣 社交媒体
 - ▶ [YouTube](https://youtube.com/@AIGeniusMinds)这里边是我关于AI绘图的思考和想法。
 - 🌊[FlowGPT](https://flowgpt.com/@tyler-coman)这是我共享Prompt的平台。
-- **Blog**
-📕 &nbsp;**Latest Blog Posts**
+- 📕**Blog**
+ &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
