@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 # 你好，我是Tyler Coman! 👋
 > “你给世界的，就是世界给你的！”
 
@@ -14,6 +7,12 @@
 
 ## 📈 Github统计
 ![Tyler的Github统计](https://github-readme-stats.vercel.app/api?username=zhutyler21&show_icons=true&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhutyler21/zhutyler21/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📣 社交媒体
 - ▶ [YouTube](https://youtube.com/@AIGeniusMinds)这里边是我关于AI绘图的思考和想法。
