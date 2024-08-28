@@ -16,7 +16,7 @@
 
 ## 📣 社交媒体
 - ▶ [YouTube](https://youtube.com/@AIGeniusMinds)这里边是我关于AI绘图的思考和想法。
-- 🌊[X](https://x.com/zhutyler21)这是我X账号。
+- 🌊[zhutlyer21](https://x.com/zhutyler21)这是我X账号。
 
 ## 📧 联系我
 如果你对AI技术或创作提示词Prompt有兴趣，或者想讨论任何相关的话题，欢迎通过[邮件](mailto:zhutyler21@gmail.com)联系我，或者在我的项目下留言。我很期待与你交流合作！🤝
